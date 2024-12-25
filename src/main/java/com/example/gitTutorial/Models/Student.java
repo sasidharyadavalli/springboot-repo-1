@@ -8,4 +8,5 @@ public class Student {
     String name;
     String course;
     String city;
+    String FatherName;
 }
